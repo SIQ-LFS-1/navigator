@@ -128,7 +128,7 @@ elif re.match(VM2_pattern, ip_address):
     VMNumber = 2
 
 if VMNumber is None:
-    VMNumber = 0
+    VMNumber = 1
     # print("--ERROR--[ REGEX MATCH FAILED ]")
     # exit()
 
