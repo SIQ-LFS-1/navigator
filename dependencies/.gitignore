@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*dependencies*
+!requirements.txt
+!FDM-extension.crx
+!FDM-settings.fds
